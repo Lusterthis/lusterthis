@@ -1,4 +1,4 @@
-- 👋 Hi, This is Luster
+- 👋 Hi, This is Lustre
 - 👀 I’m interested in unique and amazing art 
 - 🌱 I’m currently learning cpp n py
 
